@@ -1,0 +1,69 @@
+/****************index sayfası****************/
+body {
+    background-color: #7077a7;
+    font-family: "Open+Sans", sans-serif;
+    color: #dde6dd;
+}
+header h1 {
+    font-size: 50px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    text-decoration: none;
+}
+nav ul li{
+    display: inline;
+    margin-right: 30px;
+}
+nav a{
+    text-decoration: none;
+    color:bisque;
+    font-weight: bold;
+}
+main{
+    margin-top: 50px;
+    display: flex;
+    }
+.section1{
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 40px;
+}
+.aside1{
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+aside p{
+    margin-left: 200px;
+}
+footer ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    text-decoration: none;
+}
+footer a{
+    text-decoration: none;
+    color:bisque;
+}
+footer ul li{
+    display: inline;
+    margin-right: 30px;
+}
+footer p{
+    font-size: 12px;
+    text-align: center;
+}
+/****************index sayfası****************/
+
+ 
