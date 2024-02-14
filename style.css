@@ -26,6 +26,9 @@ nav a{
     color:bisque;
     font-weight: bold;
 }
+nav a:hover{
+    color: #a21c1c;
+}
 main{
     margin-top: 50px;
     display: flex;
@@ -42,6 +45,9 @@ main{
 }
 aside p{
     margin-left: 200px;
+}
+aside img{
+    border-radius: 4px;
 }
 footer ul{
     list-style: none;
@@ -65,5 +71,15 @@ footer p{
     text-align: center;
 }
 /****************index sayfası****************/
-
+.aboutus a{
+    text-decoration: none;
+    color:#dde6dd;
+    margin-top: 20px;
+}
+.aboutus{
+    margin-top: 100px;
+}
+.aboutus a:hover{
+    color: #a21c1c;
+}
  
